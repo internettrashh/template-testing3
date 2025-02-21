@@ -24,7 +24,7 @@ Make sure you have the following installed on your development machine:
 
 ## 🚀 Getting Started
 
-Follow these steps to get started with the react-vite-ts template:
+Follow these steps to get started with the react-vite-ts template
 
 1. Clone the repository:
 
